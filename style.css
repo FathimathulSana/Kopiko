@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+.kopiko{
+  font-family: "Playfair Display", serif;
+ 
+  font-size: 50px;
+}
+.text{
+    text-align: center;
+    letter-spacing: 4.5px;
+    color: #b7b7b7;
+}
+.text1:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.navhover:hover{
+  color: red !important;
+}
+.text2{
+    font-family: sans-serif;
+    color: #7a7a7a;
+    font-size: 24px;
+    text-align: center;
+}
+.text3{
+    padding-top: 167px;
+}
+.text4{
+    padding-top: 45px;
+}
+.list{
+    list-style: none;
+}
+
+.text5{
+    text-align: center;
+    color: #b7b7b7;
+}
+.menu:hover{
+    border-top: red !;
+}
+.img{
+    width: 55%;
+}
